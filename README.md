@@ -4,7 +4,12 @@ Owllog POS is an open-source mobile app built using ionic, vue.js, capacitor
 
 ## Installation
 
-After cloning the repo, enter the project file, then run:
+- First clone the repo: 
+```
+git clone git@github.com:Meklad/owllog-pos.git
+```
+
+- Enter the project dirctory, then run:
 
 ```bash
 npm install
