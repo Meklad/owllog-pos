@@ -1,0 +1,7 @@
+{
+  "name": "owllog-pos",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "vue"
+}
