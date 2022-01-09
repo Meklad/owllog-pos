@@ -1,0 +1,6 @@
+{
+	"appId": "io.ionic.starter",
+	"appName": "owllog-pos",
+	"webDir": "dist",
+	"bundledWebRuntime": false
+}
